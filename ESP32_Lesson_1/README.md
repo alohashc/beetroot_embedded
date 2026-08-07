@@ -46,13 +46,13 @@ pio device monitor
 ---
 ## Photos
 ### CASE 1
-<img width="960" height="1280" alt="photo_2026-08-07 17 56 42" src="https://github.com/user-attachments/assets/9bc72ce0-c771-4c70-a96d-fa6aafac72ad" />
-<img width="960" height="1280" alt="photo_2026-08-07 17 56 47" src="https://github.com/user-attachments/assets/aba8f2d0-999e-4491-91a4-b62b436019bc" />
+<img width="480" height="640" alt="photo_2026-08-07 17 56 42" src="https://github.com/user-attachments/assets/9bc72ce0-c771-4c70-a96d-fa6aafac72ad" />
+<img width="480" height="640" alt="photo_2026-08-07 17 56 47" src="https://github.com/user-attachments/assets/aba8f2d0-999e-4491-91a4-b62b436019bc" />
 
 
 ### CASE 2
-<img width="960" height="1280" alt="photo_2026-08-07 17 56 39" src="https://github.com/user-attachments/assets/b3b5c8de-ff5d-4188-ac89-81af413f93d1" />
-<img width="960" height="1280" alt="photo_2026-08-07 17 56 29" src="https://github.com/user-attachments/assets/463d4ce9-b295-485c-9f02-aef2b4e3b595" />
+<img width="480" height="640" alt="photo_2026-08-07 17 56 39" src="https://github.com/user-attachments/assets/b3b5c8de-ff5d-4188-ac89-81af413f93d1" />
+<img width="480" height="640" alt="photo_2026-08-07 17 56 29" src="https://github.com/user-attachments/assets/463d4ce9-b295-485c-9f02-aef2b4e3b595" />
 
 
 [Back to main project README](../README.md)
