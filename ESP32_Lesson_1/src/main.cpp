@@ -1,4 +1,3 @@
-// TWO COLORTS WITH TWO PINS
 #include <Arduino.h>
 
 #ifdef CASE_POLICE_BLINK_SIMPLE
