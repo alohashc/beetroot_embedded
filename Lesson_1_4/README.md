@@ -40,3 +40,12 @@ This project is set up for PlatformIO.
 
 ## Notes
 The project is a good example of basic input handling, debounce logic, and state-based LED control on an ESP32 device.
+
+## EVIDENCES
+
+
+https://github.com/user-attachments/assets/ba87d980-9d7e-4717-8003-464f902d88ad
+
+
+
+
