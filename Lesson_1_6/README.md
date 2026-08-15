@@ -44,6 +44,12 @@ This project is set up for PlatformIO.
    pio run --target monitor
    ```
 
+## Video
+
+https://github.com/user-attachments/assets/8c46f8af-86ef-4049-912e-86f080ecc725
+
+
+
 ## Notes
 The sketch is useful as a practical example of measuring analog voltage and using threshold logic to create a stable digital control response. It is a good stepping stone for sensor reading, voltage monitoring, or simple comparator-style behavior on an ESP32.
 
