@@ -46,8 +46,7 @@ This project is set up for PlatformIO.
 
 ## Video
 
-https://github.com/user-attachments/assets/8c46f8af-86ef-4049-912e-86f080ecc725
-
+https://github.com/user-attachments/assets/3ca9ed86-6129-48f5-91a9-1a5b375fb9b7
 
 
 ## Notes
