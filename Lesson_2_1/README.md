@@ -1,5 +1,9 @@
 # Lesson 2.1 — Embedded C++ LED Control with Button Interrupt
 
+
+https://github.com/user-attachments/assets/60784a03-de3b-45f8-acb3-ae964bb9c350
+
+
 ## Опис проекту
 
 Цей проект реалізує неблокуючий керований LED-режим на ESP32 у стилі Embedded C++ з використанням `superloop`-архітектури.
