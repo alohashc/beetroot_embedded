@@ -5,9 +5,11 @@ This sketch contains two selectable tasks controlled by compile-time defines:
 
 - `TASK_1` — Relay activation time measurement using an interrupt on a contact input.
 <img width="591" height="227" alt="Screenshot 2026-08-29 at 19 47 40" src="https://github.com/user-attachments/assets/d6a74b71-aa16-493b-b79d-78faa49380b1" />
+
 https://github.com/user-attachments/assets/149ce9e9-a472-4828-9ccf-5f1e1513da1c
 
 - `TASK_2` — Motor speed control using a potentiometer and a software PWM implementation.
+
 https://github.com/user-attachments/assets/13bf5299-efdb-4665-ad01-578713485e5d
 
 
