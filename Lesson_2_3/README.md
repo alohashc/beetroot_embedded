@@ -3,6 +3,11 @@
 ## Overview
 This lesson demonstrates non-blocking LED control on an ESP32 using `millis()` and a simple data structure per LED. The sketch runs three independent blinkers with different periods without using `delay()`.
 
+
+https://github.com/user-attachments/assets/fd7a398a-15dd-4bd0-9489-30f936303b55
+
+
+
 ## What the firmware does
 - Controls three LEDs on GPIO pins: 15, 16 and 18.
 - Each LED blinks at its own interval:
