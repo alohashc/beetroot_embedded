@@ -11,3 +11,4 @@ For Lesson 1 instructions and how to run the PlatformIO cases, see:
 - [Lesson 2.2 Project](Lesson_2_2/README.md)
 - [Lesson 2.3 Project](Lesson_2_3/README.md)
 - [Lesson 2.4 Project](Lesson_2_4/README.md)
+ - [Lesson 2.5 Project](Lesson_2_5/README.md) — Timer-driven motor control using hardware timers
