@@ -2,6 +2,10 @@
 
 This project demonstrates controlling a motor on an ESP32-S3 dev board using two hardware timers: one timer schedules when the motor starts, the other controls how long it runs.
 
+
+https://github.com/user-attachments/assets/28287216-0d28-408d-84dd-58e3b4c17fa3
+
+
 ## What this project demonstrates
 - Timer-driven motor control using `hw_timer_t` interrupts.
 - Use of the task watchdog (`esp_task_wdt`) to keep the main loop alive.
