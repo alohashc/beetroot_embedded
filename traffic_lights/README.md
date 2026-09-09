@@ -8,6 +8,8 @@ Simple PlatformIO project for an ESP32-based traffic light controller.
 
 This project implements a basic traffic light sequence using hardware timers on an ESP32. The implementation lives in `src/main.cpp`.
 
+https://github.com/user-attachments/assets/a9fbc30d-18a9-4705-8526-f8ca02e85020
+
 ## Features
 
 - Configurable on/blink intervals in `src/main.cpp`
