@@ -4,6 +4,8 @@ This project demonstrates a simple ESP-IDF application that reads an analog inpu
 
 ## Overview
 
+https://github.com/user-attachments/assets/f6665a4c-c17a-4363-9b1e-2318de3813e4
+
 The firmware does the following:
 
 - Initializes ADC1 on the ESP32
