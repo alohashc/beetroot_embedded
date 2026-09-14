@@ -1,0 +1,28 @@
+# PlatformIO build and cache files
+.pio/
+.pioenvs/
+.piolibdeps/
+.piaclient/
+*.pio
+*.pidb
+
+# VS Code editor metadata
+.vscode/
+
+# ESP-IDF / CMake generated artifacts
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+dependencies.lock
+managed_components/
+sdkconfig
+sdkconfig.*
+sdkconfig.old
+*.elf
+*.bin
+*.hex
+*.log
+*.gcda
+*.gcno
