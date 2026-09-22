@@ -4,6 +4,9 @@ This PlatformIO project demonstrates reading a potentiometer with the ESP-IDF
 oneshot ADC driver and using the resulting level to control an LED and a motor
 through PWM.
 
+https://github.com/user-attachments/assets/a636846b-7d99-4ece-8d43-0240f27dcb7d
+
+
 ## Hardware
 
 - Board: ESP32-S3 DevKitC-1
