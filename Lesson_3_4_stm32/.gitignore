@@ -1,0 +1,27 @@
+# PlatformIO build files
+.pio/
+
+# PlatformIO / VS Code generated
+.vscode/
+
+# CubeIDE / Eclipse
+Debug/
+Release/
+.settings/
+.project
+.cproject
+
+# Build artifacts
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+*.a
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -15,4 +15,5 @@ For Lesson 1 instructions and how to run the PlatformIO cases, see:
 - [Lesson 3.1 ESP-IDF Project](Lesson_3_1_espidf/README.md) — ADC smoothing and LED threshold control with hysteresis
 - [Lesson 3.2 ESP-IDF Project](Lesson_3_2_espidf/README.md) — ESP32-S3 ADC raw and calibrated voltage measurement
 - [Lesson 3.3 ESP-IDF Project](Lesson_3_3_espidf/README.md) — ADC-controlled LED and motor PWM
+- [Lesson 3.4 STM32 Project](Lesson_3_4_stm32/README.md) — STM32F411 PWM sine-wave buzzer with timer-interrupt audio synthesis
 - [Traffic Lights Project](traffic_lights/README.md) — ESP32 traffic light controller using hardware timers
