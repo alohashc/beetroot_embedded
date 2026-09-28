@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+https://github.com/user-attachments/assets/5165d0b2-611d-4fd9-a7e7-35d9516afd45
+
 This project targets an STM32F411CEU6 and uses STM32Cube HAL through PlatformIO's `stm32cube` framework. TIM3 channel 1 generates PWM on PA6. TIM3 update interrupts step through a 16-entry sine-shaped duty table, producing a changing PWM duty cycle intended to synthesize musical notes for a buzzer.
 
 The repository contains CubeMX-generated initialization and interrupt support alongside a C++ application that implements the audio and melody behavior. The project files identify PA6 as the buzzer signal output, but do not include a schematic or document the buzzer model, wiring, or any external driver circuitry.
