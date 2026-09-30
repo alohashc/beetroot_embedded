@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+https://github.com/user-attachments/assets/39625555-922d-4d5f-969d-f68e66df0ce3
+
 This project demonstrates a simple ESP32-based closed-loop servo controller. A potentiometer connected to ADC input is read on GPIO4, and the measured value is converted into a servo angle from 0 to 180 degrees. The servo signal is generated on GPIO15 using a PWM signal configured for a standard hobby servo timing pattern.
 
 The program continuously samples the ADC, maps the raw value to an angle, and updates the servo position every 100 ms.
