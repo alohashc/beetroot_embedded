@@ -2,6 +2,8 @@
 
 This project is a compact ESP32-based safe control system built around a rotary encoder, a servo actuator, status LEDs, and a buzzer. The device accepts a 4-digit code, validates it, and unlocks a simulated safe door on success.
 
+https://github.com/user-attachments/assets/dbb483eb-d918-4a0a-9435-acc2fc70a34d
+
 ## Project goal
 
 The safe is designed to demonstrate embedded control patterns for:
