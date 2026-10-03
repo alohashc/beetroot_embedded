@@ -18,3 +18,4 @@ For Lesson 1 instructions and how to run the PlatformIO cases, see:
 - [Lesson 3.4 STM32 Project](Lesson_3_4_stm32/README.md) — STM32F411 PWM sine-wave buzzer with timer-interrupt audio synthesis
 - [Lesson 3.5 Project](Lesson_3_5/README.md) — ESP32 servo control driven by a potentiometer ADC reading
 - [Traffic Lights Project](traffic_lights/README.md) — ESP32 traffic light controller using hardware timers
+- [Mini Project 3 Safe](miniproj_module_3_safe/README.md) — ESP32 rotary-encoder safe lock with servo unlock and audible feedback
