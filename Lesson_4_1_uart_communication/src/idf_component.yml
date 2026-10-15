@@ -1,0 +1,4 @@
+dependencies:
+  espressif/button:
+    version: "^4.2.1"
+    registry_url: "https://components.espressif.com"

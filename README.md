@@ -17,5 +17,6 @@ For Lesson 1 instructions and how to run the PlatformIO cases, see:
 - [Lesson 3.3 ESP-IDF Project](Lesson_3_3_espidf/README.md) — ADC-controlled LED and motor PWM
 - [Lesson 3.4 STM32 Project](Lesson_3_4_stm32/README.md) — STM32F411 PWM sine-wave buzzer with timer-interrupt audio synthesis
 - [Lesson 3.5 Project](Lesson_3_5/README.md) — ESP32 servo control driven by a potentiometer ADC reading
+- [Lesson 4.1 UART Communication Project](Lesson_4_1_uart_communication/README.md) — ESP32 + STM32 UART command exchange with button and LED control
 - [Traffic Lights Project](traffic_lights/README.md) — ESP32 traffic light controller using hardware timers
 - [Mini Project 3 Safe](miniproj_module_3_safe/README.md) — ESP32 rotary-encoder safe lock with servo unlock and audible feedback
