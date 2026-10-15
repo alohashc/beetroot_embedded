@@ -2,6 +2,8 @@
 
 This project demonstrates a simple UART-based command exchange between an ESP32-S3 and an STM32F411 Black Pill board.
 
+https://github.com/user-attachments/assets/64c780c3-e270-4037-aecf-46c3b48cf093
+
 The ESP32 sends a command when its button is pressed, and the STM32 toggles its onboard LED in response. The STM32 also monitors its own button and sends a command back to the ESP32, creating a two-way communication loop over UART.
 
 ## What this project does
