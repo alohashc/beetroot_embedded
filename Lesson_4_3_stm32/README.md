@@ -1,5 +1,7 @@
 # Lesson 4.3: STM32 RTC and OLED Display
 
+https://github.com/user-attachments/assets/f0746f9e-6440-4dea-bb07-4d1da2345a95
+
 ## Project overview
 
 This project targets an STM32F411CEU6 Black Pill board and uses STM32Cube HAL through PlatformIO's `stm32cube` framework. It reads the current time and date from a DS1307 real-time clock and displays them on a 128×64 SSD1306 OLED. The display is refreshed once per second. RTC read failures are reported over USB CDC.
