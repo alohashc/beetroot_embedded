@@ -2,6 +2,8 @@
 
 ## Project overview
 
+https://github.com/user-attachments/assets/dfcd8c64-90fe-43d2-bef9-cfd7308a3d50
+
 This project targets an STM32F411CEU6 Black Pill board and uses STM32Cube HAL through PlatformIO's `stm32cube` framework. It reads the date and time from a DS1307 real-time clock and temperature and pressure from a BMP280 sensor, then displays the readings on a 128×64 SSD1306 OLED. The display is refreshed once per second.
 
 ## Hardware and connections
