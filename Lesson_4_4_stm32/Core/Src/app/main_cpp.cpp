@@ -5,7 +5,8 @@
 #include "ssd1306_fonts.h"
 #include "app/bmp280.h"
 
-extern "C" {
+extern "C"
+{
 #include "bmp280.h"
 }
 
@@ -103,6 +104,13 @@ static void display_data(
         pressureStr, sizeof(pressureStr),
         "P: %.1f hPa", (double)pressure_hpa);
 
+    printf(
+        "%s | %s | %s | %s\r\n",
+        timeStr,
+        dateStr,
+        temperatureStr,
+        pressureStr);
+
     ssd1306_Fill(Black);
 
     ssd1306_SetCursor(0, 0);
@@ -134,7 +142,7 @@ extern "C" void main_cpp(void)
     // time.dayOfWeek = 7;
 
     // HAL_StatusTypeDef status = DS1307_SetTime(&hi2c1, &time);
-    
+
     ssd1306_Init();
 
     static struct bmp280_t bmp = {};
