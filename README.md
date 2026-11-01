@@ -21,5 +21,6 @@ For Lesson 1 instructions and how to run the PlatformIO cases, see:
 - [Lesson 4.3 STM32 Project](Lesson_4_3_stm32/README.md) — STM32F411 real-time clock display using a DS1307 and SSD1306 OLED
 - [Lesson 4.4 STM32 Project](Lesson_4_4_stm32/README.md) — STM32F411 DS1307 clock and BMP280 sensor readings on an SSD1306 OLED
 - [Lesson 4.6 STM32 DMA Project](Lesson_4_6_stm32_dma/README.md) — STM32F411 ADC averaging with DMA and UART output
+- [Lesson 4.7 STM32 Debug Project](Lesson_4_7_stm32_debug/README.md) — STM32F411 button debouncing and LED blink-rate debugging with ST-LINK
 - [Traffic Lights Project](traffic_lights/README.md) — ESP32 traffic light controller using hardware timers
 - [Mini Project 3 Safe](miniproj_module_3_safe/README.md) — ESP32 rotary-encoder safe lock with servo unlock and audible feedback
