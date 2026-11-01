@@ -2,6 +2,8 @@
 
 ## Project overview
 
+https://github.com/user-attachments/assets/782e5627-d85d-4d84-a625-401a47feeb4e
+
 This project targets an STM32F411CEU6 Black Pill board and uses the STM32Cube framework through PlatformIO. It demonstrates the basic debugging workflow for a bare-metal firmware project by flashing an LED and reacting to a hardware button with software debouncing.
 
 The firmware configures PA5 as an output LED pin and PA0 as an input with an internal pull-up. Each time the button is pressed and stabilized, the LED blink interval changes in a cycle: 200 ms, 500 ms, then 1000 ms, and back to 200 ms.
