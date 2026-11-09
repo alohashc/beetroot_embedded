@@ -20,6 +20,7 @@ For Lesson 1 instructions and how to run the PlatformIO cases, see:
 - [Lesson 4.1 UART Communication Project](Lesson_4_1_uart_communication/README.md) — ESP32 + STM32 UART command exchange with button and LED control
 - [Lesson 4.3 STM32 Project](Lesson_4_3_stm32/README.md) — STM32F411 real-time clock display using a DS1307 and SSD1306 OLED
 - [Lesson 4.4 STM32 Project](Lesson_4_4_stm32/README.md) — STM32F411 DS1307 clock and BMP280 sensor readings on an SSD1306 OLED
+- [Module 4 Mini Project: Logger](Module_4_miniproj_logger/README.md) — STM32F411 persistent logger with a storage-device adapter and AT24C32 EEPROM backend
 - [Lesson 4.6 STM32 DMA Project](Lesson_4_6_stm32_dma/README.md) — STM32F411 ADC averaging with DMA and UART output
 - [Lesson 4.7 STM32 Debug Project](Lesson_4_7_stm32_debug/README.md) — STM32F411 button debouncing and LED blink-rate debugging with ST-LINK
 - [Traffic Lights Project](traffic_lights/README.md) — ESP32 traffic light controller using hardware timers
